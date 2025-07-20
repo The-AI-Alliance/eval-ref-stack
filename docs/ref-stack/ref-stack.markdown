@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Evaluation Reference Stack Details
+title: Reference Stack Details
 nav_order: 20
 has_children: true
 ---

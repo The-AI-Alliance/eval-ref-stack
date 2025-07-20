@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Deployment of the Reference Stack Components
+title: Deployment of Reference Stack Components
 nav_order: 210
-parent: Evaluation Reference Stack Details
+parent: Reference Stack Details
 has_children: false
 ---
 
