@@ -41,7 +41,7 @@ Are you interested in contributing? If so, please see the [Contributing]({{site.
 
 ## Additional Links
 
-* Project [GitHub repo](https://github.com/The-AI-Alliance/trust-safety-evals){:target="repo"}
+* Project [GitHub repo](https://github.com/The-AI-Alliance/eval-ref-stack){:target="repo"}
 * The AI Alliance: [website](https://thealliance.ai){:target="ai-alliance"}, [The Trust and Safety Work Group](https://thealliance.ai/focus-areas/trust-and-safety){:target="ai-alliance-tns"} 
 
 | **Authors** | [The AI Alliance Trust and Safety Work Group](https://thealliance.ai/focus-areas/trust-and-safety){:target="ai-alliance-tns"} |
