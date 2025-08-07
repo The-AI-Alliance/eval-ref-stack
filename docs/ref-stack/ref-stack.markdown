@@ -7,7 +7,7 @@ has_children: true
 
 # Evaluation Reference Stack Details
 
-Recall we said on the [home page]({{site.baseurl}}) that the reference stack provides the &ldquo;runtime&rdquo; for evaluations, but the set of evaluations themselves has to be provided. The companion AI Alliance projects, [Evaluation Is for Everyone](https://the-ai-alliance.github.io/trust-safety-evals/) and [Achieving Confidence in Enterprise AI Applications](https://the-ai-alliance.github.io/ai-application-testing/) focus on defining the evaluations themselves (e.g., for hate speech, hallucinations, testing, etc.), which are deployed on the reference stack. 
+Recall we said on the [home page]({{site.baseurl}}) that the reference stack provides the &ldquo;runtime&rdquo; for evaluations, but the set of evaluations themselves has to be provided. The companion AI Alliance projects, [Evaluation Is for Everyone](https://the-ai-alliance.github.io/trust-safety-evals/){:target="_blank"} and [Achieving Confidence in Enterprise AI Applications](https://the-ai-alliance.github.io/ai-application-testing/){:target="_blank"} focus on defining the evaluations themselves (e.g., for hate speech, hallucinations, testing, etc.), which are deployed on the reference stack. 
 
 So, the rest of this website focuses on the components in the reference stack and doesn't cover the details of writing evaluations themselves, except where useful for expository purposes. See the companion Alliance projects and the documentation for the tools discussed below for all the details.
 

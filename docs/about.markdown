@@ -8,7 +8,7 @@ show_contribute_dataset_button: true
 
 # About The Evaluation Reference Stack Project and The AI Alliance
 
-The **Evaluation Reference Stack** project is developed by the [Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety){:target="wg"} work group in [The AI Alliance](https://thealliance.ai){:target="ai-alliance"}. 
+The **Evaluation Reference Stack** project is a project of the [Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety){:target="wg"} work group in [The AI Alliance](https://thealliance.ai){:target="ai-alliance"}. 
 
 The [home page]({{site.baseurl}}/) describes the project.
 
