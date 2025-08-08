@@ -9,6 +9,7 @@ has_children: false
 
 _Part of the AI Alliance [**Trust and Safety Evaluation Initiative**](https://thealliance.ai/core-projects/trust-and-safety-evaluations){:target="tsei"} (TSEI), our goal is to create the world's most comprehensive and useful tool set and resources for anyone seeking to benchmark, evaluate, and monitor AI systems. Welcome to the **Evaluation Reference Stack** project, a foundation of that effort, to provide a de-facto standard, easy-to-use platform to run [evaluations]({{site.glossaryurl}}/#evaluation){:target="glossary"} of all kinds._
 
+{: .tip }
 > **Tip:** The links for _italicized terms_ go to [this glossary]({{site.glossaryurl}}){:target="glossary"}.
 
 There are many open-source and commercial frameworks for AI [_evaluation_]({{site.glossaryurl}}/#evaluation){:target="glossary"}, for example to detect hate speech and [_hallucination_]({{site.glossaryurl}}/#hallucination){:target="glossary"}, to measure the [_question-answering_]({{site.glossaryurl}}/#question-answering){:target="glossary"} abilities, etc. However, there are no real standards which are widely used by implementers, so that most evaluation suites require separate tools. Some suites and corresponding tools are better engineered for research purposes, while others are suitable for production deployments.
