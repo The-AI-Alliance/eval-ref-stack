@@ -4,7 +4,7 @@
 
 This repo contains the code and documentation for the AI Alliance _Evaluation Reference Stack_, which is designed to provide an out-of-the-box suite of tools for running almost any kind of model and app _evaluations_, e.g., for safety, performance, alignment to use cases and requirements, etc.
 
-See also the [Evaluation Is for Everyone](https://the-ai-alliance.github.io/trust-safety-evals/) project and the [Achieving Confidence in Enterprise AI Applications](https://the-ai-alliance.github.io/ai-application-testing/) project, which use this reference stack.  
+See also the [Evaluation Is for Everyone](https://the-ai-alliance.github.io/trust-safety-evals/) project and the [Testing Generative AI Applications](https://the-ai-alliance.github.io/ai-application-testing/) project, which use this reference stack.  
 
 ## About the Evaluation Reference Stack
 
