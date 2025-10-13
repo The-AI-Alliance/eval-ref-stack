@@ -16,7 +16,7 @@ There are many open-source and commercial frameworks for AI [_evaluation_]({{sit
 
 This project is identifying and endorsing evaluation tools that are already widely used, with the potential to become industry standards. These tools address the varied needs of both creators (researchers and system builders), as well as consumers of evaluations. Ideally, an evaluation platform supports _offline_ use, such as for [_benchmarks_]({{site.glossaryurl}}/#benchmark){:target="glossary"} and related testing purposes, as well as _online_ use, during inference and agent flows, where support is required for production-quality concerns, such as [_scalability_]({{site.glossaryurl}}/#scalability){:target="glossary"} and [_robustness_]({{site.glossaryurl}}/#robustness){:target="glossary"}.
 
-Our goal is to enable enterprise developers, who are usually not evaluation experts, to quickly and easily deploy the runtime stack they need for executing evaluations online or offline. The companion AI Alliance projects, [Evaluation Is for Everyone](https://the-ai-alliance.github.io/trust-safety-evals/){:target="tse"} and [Achieving Confidence in Enterprise AI Applications](https://the-ai-alliance.github.io/ai-application-testing/){:target="aceaa"} focus on defining the evaluations themselves (e.g., for hate speech, hallucinations, etc.), which are deployed on the reference stack. 
+Our goal is to enable enterprise developers, who are usually not evaluation experts, to quickly and easily deploy the runtime stack they need for executing evaluations online or offline. The companion AI Alliance projects, [Evaluation Is for Everyone](https://the-ai-alliance.github.io/trust-safety-evals/){:target="tse"} and [Testing Generative AI Applications](https://the-ai-alliance.github.io/ai-application-testing/){:target="aceaa"} focus on defining the evaluations themselves (e.g., for hate speech, hallucinations, etc.), which are deployed on the reference stack. 
 
 **Figure 1** shows the relationship between these projects. 
 
@@ -30,7 +30,7 @@ Note that the evaluation reference stack _runs_ the evaluations that come from t
 
 Specifically, [Evaluation Is for Everyone](https://the-ai-alliance.github.io/trust-safety-evals/){:target="_blank"} is aimed at making it easy for developers to find and deploy the AI trust and safety evaluations they need, analogous to how [_cybersecurity_]({{site.glossaryurl}}/#security){:target="glossary"} capabilities must be included in all modern applications. The appropriate set of evaluations would run on the reference stack. 
 
-Similarly, [Achieving Confidence in Enterprise AI Applications](https://the-ai-alliance.github.io/ai-application-testing/){:target="_blank"} addresses a current gap in AI-enabled application development; how to test that the applications behave as designed, when generative AI models are inherently _probabilistic_, instead of _deterministic_. The same evaluation tools AI experts use to evaluate models for trust and safety concerns can be applied to this problem. In other words, custom evaluations need to be written that test individual use cases and related requirements, and integrated into familiar test suites. In part, the _confidence_ project will help educate developers on how to use these tools effectively in combination with the testing and quality assurance (QA) tools they already use.
+Similarly, [Testing Generative AI Applications](https://the-ai-alliance.github.io/ai-application-testing/){:target="_blank"} addresses a current gap in AI-enabled application development; how to test that the applications behave as designed, when generative AI models are inherently _probabilistic_, instead of _deterministic_. The same evaluation tools AI experts use to evaluate models for trust and safety concerns can be applied to this problem. In other words, custom evaluations need to be written that test individual use cases and related requirements, and integrated into familiar test suites. In part, the _confidence_ project will help educate developers on how to use these tools effectively in combination with the testing and quality assurance (QA) tools they already use.
 
 **Figure 1** also shows several possible components in the reference stack. We dive into the details in [Reference Stack Details]({{site.baseurl}}/ref-stack/ref-stack).
 
@@ -42,7 +42,7 @@ Are you interested in contributing? If so, please see the [Contributing]({{site.
 
 * The project's [GitHub repo](https://github.com/The-AI-Alliance/eval-ref-stack){:target="repo"}
 * Companion projects:
-	* <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="acea">Achieving Confidence in Enterprise AI Applications</a>
+	* <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="tgai">Testing Generative AI Applications</a>
 	* <a href="https://the-ai-alliance.github.io/trust-safety-evals/" target="eie">Evaluation Is for Everyone</a>
 * The AI Alliance: 
 	* [Website](https://thealliance.ai){:target="ai-alliance"}
