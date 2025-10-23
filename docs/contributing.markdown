@@ -20,7 +20,7 @@ Visit this project's [GitHub repo README](https://github.com/The-AI-Alliance/eva
 
 The [current activity](https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3A%22reference+stack%22){:target="db"} is tracked in [this dashboard](https://github.com/orgs/The-AI-Alliance/projects/23/views/1){:target="db2"}
 
-Finally, you can provide feedback using [email](mailto:contact@thealliance.ai). Be sure to mention this particular project.
+Finally, you can provide feedback using [email](mailto:contact@thealliance.ai?subject=Feedback for The Evaluation Reference Stack). Be sure to mention this particular project.
 
 See also the full list of projects [here](https://the-ai-alliance.github.io/){:target="aia-github"} to find other projects that might interest you.
 
