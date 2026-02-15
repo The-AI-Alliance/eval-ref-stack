@@ -75,7 +75,7 @@ nav_external_links:
     hide_icon: false
 
 # Added by AI Alliance: a glossary URL
-glossaryurl: https://the-ai-alliance.github.io/trust-safety-evals/glossary
+glossaryurl: https://the-ai-alliance.github.io/glossary
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
