@@ -29,7 +29,7 @@ Evaluation needs are broadening, however. The [Testing Generative AI Application
 
 Hence, the reference stack must be as flexible as possible to support existing evaluation techniques, including data management and execution, while adapting to new requirements as they emerge, such as integration with traditional developer testing tools.
 
-The best place to start when searching for evaluations is the new [catalog](https://evalcards.evalevalai.com/){:target="evaleval-catalog"} from the [EvalEval Coalition](https://evalevalai.com/){:target="evaleval"}, which is also defining a standard schema for [Evaluation Cards]({{site.glossaryurl}}/#evaluation-cards){:target="_glossary"}. **This is an important resource when looking for evaluation results, captured in a standardized way.** For information about EvalEval, see the description in the [AI Trust and Safety User Guide](https://the-ai-alliance.github.io/trust-safety-user-guide/references/#evaleval-coalition){:target="tsug"}.
+The best place to start when searching for evaluations is the new [catalog](https://evalcards.evalevalai.com/){:target="evaleval-catalog"} from the [EvalEval Coalition](https://evalevalai.com/){:target="evaleval"}, which is also defining a standard schema for [Evaluation Cards]({{site.glossaryurl}}/#evaluation-card){:target="_glossary"}. **This is an important resource when looking for evaluation results, captured in a standardized way.** For information about EvalEval, see the description in the [AI Trust and Safety User Guide](https://the-ai-alliance.github.io/trust-safety-user-guide/references/#evaleval-coalition){:target="tsug"}.
 
 ### Ease of Use and Backwards Compatibility
 
