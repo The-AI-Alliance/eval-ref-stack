@@ -29,6 +29,8 @@ Evaluation needs are broadening, however. The [Testing Generative AI Application
 
 Hence, the reference stack must be as flexible as possible to support existing evaluation techniques, including data management and execution, while adapting to new requirements as they emerge, such as integration with traditional developer testing tools.
 
+The best place to start when searching for evaluations is the new [catalog](https://evalcards.evalevalai.com/){:target="evaleval-catalog"} from the [EvalEval Coalition](https://evalevalai.com/){:target="evaleval"}, which is also defining a standard schema for [Evaluation Cards]({{site.glossaryurl}}/#evaluation-cards){:target="_glossary"}. **This is an important resource when looking for evaluation results, captured in a standardized way.** For information about EvalEval, see the description in the [AI Trust and Safety User Guide](https://the-ai-alliance.github.io/trust-safety-user-guide/references/#evaleval-coalition){:target="tsug"}.
+
 ### Ease of Use and Backwards Compatibility
 
 In general, the reference stack needs to be sufficiently usable by software developers and system administrators who are not AI evaluation experts, but need to deploy and use these tools in their R&D and production environments.
@@ -49,6 +51,7 @@ There is currently no industry-standard evaluation stack, but several tools have
 
 | Name | URLs | Description |
 | :--- | :--- | :---------- |
+| EvalEval Catalog | [website](https://evalcards.evalevalai.com/){:target="evaleval-catalog"} | The emerging standard schema for evaluation cards and a growing catalog of them. |
 | EleutherAI’s LM Evaluation Harness | [website](https://www.eleuther.ai/projects/large-language-model-evaluation){:target="lm-site"}<br/>[`lm-evaluation-harness` repo](https://github.com/EleutherAI/lm-evaluation-harness){:target="lm-repo"} | A widely used, efficient evaluation platform for inference time (i.e., runtime) evaluation and for leaderboards. |
 | IBM’s Unitxt | [website](https://www.unitxt.ai){:target="unitxt"}<br/>[`unitxt` repo](https://github.com/IBM/unitxt/){:target="unitxt-repo"} | A library for writing and running individual evaluations, which has an interesting benefit that evaluations can be _declaratively_ defined and executed without the need to write and execute third-party, possibly-untrusted code. |
 | IBM's EvalAssist | [website](https://ibm.github.io/eval-assist/){:target="eval-assist"}<br/>[`eval-assist` repo](https://github.com/IBM/eval-assist){:target="eval-assist-repo"} | A relatively new tool that makes writing `unitxt`-based evaluations easier. Specifically, EvalAssist is an application that simplifies using LLMs as evaluations (LLM-as-a-Judge) of the output of other LLMs by supporting users in iteratively refining evaluation criteria in a web-based user experience, with other features designed for the incremental process of building evaluations.
